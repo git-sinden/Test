@@ -13,7 +13,7 @@
         <Label fx:id="label" layoutX="126" layoutY="120" minHeight="16" minWidth="69" />
       <MenuBar layoutY="2.0" prefHeight="25.0" prefWidth="320.0">
         <menus>
-          <Menu mnemonicParsing="false" text="File">
+          <Menu mnemonicParsing="false" text="ファイル">
             <items>
               <MenuItem mnemonicParsing="false" text="Close" />
             </items>
